@@ -1,4 +1,4 @@
-# Software Quality Engineering Homework - Univaq
+# Health Informatics and Data Collaboration (HIDC) - Software Quality Engineering Homework (Univaq)
 
 This repository contains my homework submissions for the Software Quality Engineering course at the University of L'Aquila (Univaq) for the academic year 2023-2024. The assignments focus on UML software modeling and performance analysis of the Research Infrastructure for Big Data and Social Mining (SoBigData) system.
 
